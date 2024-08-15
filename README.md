@@ -1,6 +1,6 @@
 # Project: PySpark Data Processing and Code Generation Suite
 
-About This Project
+
 This repository contains a collection of PySpark applications designed for common data processing tasks, along with a code generation tool for simplifying Spark join operations. The suite demonstrates practical data engineering techniques using PySpark, making it ideal for those interested in big data, distributed computing, and data transformations. Whether you're categorizing data, analyzing trends, or generating code, this project showcases real-world examples applicable across industries.
 
 # Contents
